@@ -13,7 +13,7 @@ It allows users to know about weather of a particular city.
 - Built with **React Hooks**
 
   ## 📸 Preview
-![QR Code Generator Screenshot](./images/preview.png)
+![Weather App Preview](./images/Preview.gif)
 
 ## 🛠️ Technologies Used
 - **React.js**  
