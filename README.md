@@ -16,12 +16,29 @@ It allows users to know about weather of a particular city.
 ![QR Code Generator Screenshot](./images/preview.png)
 
 ## 🛠️ Technologies Used
-- **React.js** – front-end framework  
-- **JavaScript (ES6+)** – programming language  
-- **HTML5** – markup  
-- **CSS3** – styling  
-- **Vite** – build tool  
-- **Git & GitHub** – version control 
+- **React.js**  
+- **JavaScript**  
+- **HTML5**  
+- **CSS3**  
+- **Vite**
+- **React Icons**
+- **OpenWeather API**
+- **Postman**
+- **Prettier**
+
+  ## 📦 Installation
+```bash
+git clone https://github.com/osvi-25/react-weather-app.git
+cd react-weather-app
+npm install
+npm start
+```
+## 🧑‍💻 Usage
+
+1. **Enter** a city in the input field.  
+2. **Click Search Icon** or **Click Enter Button** to know about the weather of the city.
+
+
 
 
 
