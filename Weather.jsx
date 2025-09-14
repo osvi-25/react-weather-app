@@ -41,7 +41,7 @@ const WeatherDetails = ({ icon, temp, city, country, lat, lon, humidity, wind}) 
             <img src={humidityIcon} alt="humidity" className="humidity" />
             <div className="data">
               <div className="percentage">{humidity}%</div>
-              <div className="text">humidity</div>
+              <div className="text">Humidity</div>
             </div>
           </div>
           <div className="element-wind">
