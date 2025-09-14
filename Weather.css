@@ -136,6 +136,7 @@ input{
 }
 .weather-icon{
     mix-blend-mode: multiply;
+    margin-top: 20px;
 }
 .loading, 
 .error-message, 
