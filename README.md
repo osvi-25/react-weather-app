@@ -16,7 +16,7 @@ Check out the live version of this project [here](https://react-weather-app-thre
 - Built with **React Hooks**
 
   ## 📸 Preview
-![Weather App Preview](./images/Preview.gif)
+![Weather App Preview](./src/assets/Preview.gif)
 
 ## 🛠️ Technologies Used
 - **React.js**  
