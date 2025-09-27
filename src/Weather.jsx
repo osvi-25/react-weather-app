@@ -156,7 +156,7 @@ export const Weather = () => {
                     <FaSearch color="#757575"/>
                 </div>
             </div>
-             {!loading && !cityNotFound &&<WeatherDetails icon={icon} temp={temp} city={city} country={country} lat={lat} lon={lon} humidity={humidity} wind={wind} />}
+             {!loading && !cityNotFound && <WeatherDetails icon={icon} temp={temp} city={city} country={country} lat={lat} lon={lon} humidity={humidity} wind={wind} />}
             
             {loading && <div className="loading">Loading...</div>}
             {error && <div className="error-message">{error}</div>}

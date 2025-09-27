@@ -16,7 +16,7 @@ body{
 .app-container{
     background-color: #C7D9DD;
     width: 25vw;
-    height: 60vh;
+    height: 70vh;
     display: flex;
     flex-direction: column;
     align-items: center;
