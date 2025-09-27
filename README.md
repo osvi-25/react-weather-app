@@ -36,7 +36,7 @@ cd react-weather-app
 npm install
 npm start
 ```
-## 🧑‍💻 Usage
 
+## 🧑‍💻 Usage
 1. **Enter** a city in the input field.  
 2. **Click Search Icon** or **Click Enter Button** to know about the weather of the city.
