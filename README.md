@@ -5,7 +5,7 @@
 A Weather App built with **React**.  
 It allows users to know about weather of a particular city.
 
-## Live Demo
+## 🌐 Live Demo
 Check out the live version of this project [here](https://react-weather-app-three-fawn.vercel.app/).
 
 ## 🚀 Features
@@ -15,7 +15,7 @@ Check out the live version of this project [here](https://react-weather-app-thre
 - Lattitude and Longitude of the city
 - Built with **React Hooks**
 
-  ## 📸 Preview
+## 📸 Preview
 ![Weather App Preview](./src/assets/Preview.gif)
 
 ## 🛠️ Technologies Used
@@ -29,7 +29,7 @@ Check out the live version of this project [here](https://react-weather-app-thre
 - **Postman**
 - **Prettier**
 
-  ## 📦 Installation
+## 📦 Installation
 ```bash
 git clone https://github.com/osvi-25/react-weather-app.git
 cd react-weather-app
